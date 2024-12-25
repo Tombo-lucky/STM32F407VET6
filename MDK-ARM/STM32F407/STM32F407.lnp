@@ -4,6 +4,8 @@
 "stm32f407\gpio.o"
 "stm32f407\stm32f4xx_it.o"
 "stm32f407\stm32f4xx_hal_msp.o"
+"stm32f407\misc.o"
+"stm32f407\delay.o"
 "stm32f407\stm32f4xx_hal_tim.o"
 "stm32f407\stm32f4xx_hal_tim_ex.o"
 "stm32f407\stm32f4xx_hal_rcc.o"

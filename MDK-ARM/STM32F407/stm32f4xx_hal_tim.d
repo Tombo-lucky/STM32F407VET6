@@ -13,6 +13,9 @@ stm32f407\stm32f4xx_hal_tim.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
 stm32f407\stm32f4xx_hal_tim.o: ../Drivers/CMSIS/Include/mpu_armv7.h
 stm32f407\stm32f4xx_hal_tim.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h
 stm32f407\stm32f4xx_hal_tim.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h
+stm32f407\stm32f4xx_hal_tim.o: ../FWLIB/stm32f4xx_conf.h
+stm32f407\stm32f4xx_hal_tim.o: ../FWLIB/misc.h
+stm32f407\stm32f4xx_hal_tim.o: ../Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h
 stm32f407\stm32f4xx_hal_tim.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
 stm32f407\stm32f4xx_hal_tim.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
 stm32f407\stm32f4xx_hal_tim.o: ../Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h
